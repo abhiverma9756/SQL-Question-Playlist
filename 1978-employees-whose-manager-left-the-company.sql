@@ -1,4 +1,4 @@
-""" This is code for Employees whose manager left the company"""
+
 select employee_id
 from employees
 where salary < 30000
